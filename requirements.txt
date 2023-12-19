@@ -1,0 +1,6 @@
+pandas
+streamlit
+plotly
+pydantic
+streamlit-chat
+chat2plots
